@@ -1,6 +1,8 @@
 # Real Estate Discovery Service - Setup Guide
 
-Welcome to the Real Estate Discovery Service project. This guide provides step-by-step instructions to set up the development environment locally.
+## About This Repository
+
+The `real-estate-discovery-service` repository serves as the Discovery Service for the Real Estate project. The Discovery Service, powered by Kotlin and SpringBoot, connects all the microservices in the Real Estate project using Eureka for service discovery. This ensures that each microservice can dynamically locate and communicate with other microservices.
 
 ## Prerequisites
 
